@@ -1,0 +1,40 @@
+.card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 16px;
+    color: #333;
+}
+
+.btn-outline-primary,
+.btn-outline-danger {
+    padding: 6px 12px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+}
+
+.dropdown-menu {
+    min-width: 150px;
+}
+
+.dropdown-item {
+    font-size: 14px;
+}
